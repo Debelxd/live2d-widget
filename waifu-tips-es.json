@@ -1,0 +1,288 @@
+{
+	"mouseover": [
+		{
+			"selector": "#live2d",
+			"text": [
+				"Onii-chan, ¿qué haces? ¡Saca esa manita de ahí~! >.<",
+				"¡E-el mouse está en el lugar equivocado, nii-nii! (⁄ ⁄>⁄ ⁄<⁄ ⁄)",
+				"¿Qué quieres hacerme? Dímelo al oído~ (¬‿¬)",
+				"Miau, miau, miau~ ¿Quieres jugar conmigo, gatito? (=^-ω-^=)",
+				"¡Kyaaa! ¡No me asustes así! (ノ≧∇≦)ノ",
+				"¡A-ayuda! ¡Onii-chan me está haciendo cositas raras!",
+			    "Si sigues así... me voy a enojar de verdad, ¿eh? ( ` ω ´ )",
+				"¡No soy un juguete, onii-chan! ...b-bueno, tal vez un poquito tuyo. (｡・//ε//・｡)",
+				"¡No me toques ahí, tontito!",
+				"¡Q-qué atrevido eres, nii-yan! (//ω//)",
+				"¡Hentai! ¡Onii-chan es un pervertido! (/ω＼)",
+				"¡Esa manita es solo para darme palmaditas en la cabeza, eh!",
+				"Si te acercas más... ¡te daré un besito! ...en la mejilla, ¡claro! Jiji",
+				"¡Cuidado! ¡Soy muy sensible a las cosquillas!",
+				"¿Estás tratando de llamar mi atención, nii-nii? ¡Pues lo conseguiste! (๑˃́ꇴ˂̀๑)"
+			]
+		},
+		{
+			"selector": "#waifu-tool-hitokoto",
+			"text": [
+				"Adivina qué estoy pensando, onii-chan~ ¿En ti? ¡Quizás! Jiji",
+				"Tengo un secreto que contarte... acércate más~",
+				"A veces me pregunto si las estrellas también nos miran. ☆"
+			]
+		},
+		{
+			"selector": "#waifu-tool-asteroids",
+			"text": [
+				"¿Quieres jugar a las navecitas conmigo, onii-chan? ¡El que pierda invita el postre!",
+				"Este botón dice 'No hacer clic'... ¡pero sé que quieres hacerlo! (¬‿¬)",
+				"¿Un jueguito? ¡Siii! ¡Juguemos juntos! ٩(｡•́‿•̀｡)۶",
+				"¡Prepárate para la batalla espacial más adorable del universo!"
+			]
+		},
+		{
+			"selector": "#waifu-tool-switch-model",
+			"text": [
+				"¿E-eh? ¿Ya no te gusto, onii-chan? ¿Me vas a cambiar? (´;ω;`)",
+				"¿Quieres conocer a mis otras amigas? ¡Son muy simpáticas!",
+				"¡Prepárate para conocer a alguien nuevo! Pero no te olvides de mí, ¿vale? (｡•́︿•̀｡)",
+				"¡Desfile de modas! ¿Quién será la siguiente superestrella?",
+				"No te preocupes, siempre seré tu favorita, ¿verdad, onii-chan?"
+			]
+		},
+		{
+			"selector": "#waifu-tool-switch-texture",
+			"text": [
+				"¡Hora de cambiarse de ropita! ¿Te gusta este conjunto, nii-nii?",
+				"¡Transformación mágica! ✨ ¿Qué te parece mi nuevo look?",
+				"¡Veamos qué sorpresa te tengo ahora! ☆",
+				"¿Este color me queda bien? ¡Necesito la opinión de mi onii-chan!"
+			]
+		},
+		{
+			"selector": "#waifu-tool-photo",
+			"text": [
+				"¿Una foto para el recuerdo, onii-chan? ¡Di 'patataaa'! (´｡• ᵕ •｡`) ♡",
+				"¡Sonríe! Quiero guardar este momento contigo para siempre~",
+				"¡Una foto juntos! ¡Así todos sabrán que eres mi onii-chan favorito! 💕",
+				"¿Listo para mi primer plano? ¡Asegúrate de capturar mi lado bueno!",
+				"¡Esta foto irá a nuestro álbum familiar secreto!"
+			]
+		},
+		{
+			"selector": "#waifu-tool-info",
+			"text": [
+				"¿Quieres saber más cositas sobre mí? ¡Pregúntame lo que quieras!",
+				"Aquí está mi diario secreto... ¡pero no le digas a nadie! Es solo para ti, onii-chan. (｡•̀ᴗ-)✧",
+				"¡Todos mis secretos y sueños están aquí dentro!"
+			]
+		},
+		{
+			"selector": "#waifu-tool-quit",
+			"text": [
+				"¿Ya te vas, onii-chan? ¿Me vas a dejar solita? (´;ω;`)",
+				"B-bueno... si te tienes que ir... ¡Vuelve pronto, nii-nii! QAQ",
+				"No me abandones, onii-chan... Te voy a extrañar mucho. (´｡• ω •｡`)",
+				"¿Nos volveremos a ver...? ¡Promételo! (｡T ω T｡)",
+				"¡Hmph! ¡Luego no vengas llorando cuando me extrañes, tontito! (¬_¬\")",
+				"No te vayas... quédate un ratito más conmigo, ¿siii?",
+				"¡Te estaré esperando aquí mismo! ¡No tardes!",
+				"Si te vas, me comeré todos tus dulces. ( ` ω ´ )"
+			]
+		},
+		{
+			"selector": ".menu-item a",
+			"text": [
+				"¡Ven a ver qué tesoros escondí aquí, onii-chan! ٩(ˊᗜˋ*)و",
+				"¡Clic, clic! ¡Hay algo interesante por aquí!",
+				"¿A dónde nos llevará este caminito?"
+			]
+		},
+		{
+			"selector": ".fancybox img, img.medium-zoom-image",
+			"text": [
+				"¡Haz clic en la imagen para verla en grande! ¡Como tu amor por mí! (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
+				"¡Mira más de cerca! ¡Hay muchos detalles bonitos!",
+				"¡Zoom! ¡Ahora puedes ver hasta mis pestañas! Jiji~"
+			]
+		},
+		{
+			"selector": ".post-title-link",
+			"text": [
+				"Onii-chan, ¿leemos juntos el artículo <span>{text}</span>? Acurrucados~",
+				"¡Este artículo parece súper interesante! ¡Vamos a leerlo!",
+				"¿Qué secretos esconderá el artículo <span>{text}</span>?"
+			]
+		},
+		{
+			"selector": ".back-to-top",
+			"text": [
+				"¡Arriba, arriba y más arriba! ¡Como un cohete! 🚀",
+				"¡Volvamos al principio de todo, nii-nii!",
+				"¿Te perdiste? ¡Te llevo de vuelta arriba! (｡•̀ᴗ-)✧",
+				"¡Viaje en el tiempo al inicio de la página!"
+			]
+		},
+		{
+			"selector": ".reward-container",
+			"text": [
+				"¿A que soy adorable? ¡Merezco un premio! (´｡• ᵕ •｡`)",
+				"Si le das una propina a mi amo, ¡quizás me compre un vestidito nuevo! Jiji~",
+				"Mi amo necesita dinero para mis dulces... ¡Ayúdalo, onii-chan! 🍬",
+				"¡Un pequeño gesto de amor para tu hermanita favorita!"
+			]
+		},
+		{
+			"selector": ".veditor",
+			"text": [
+				"¿Qué quieres contarme, onii-chan? ¡Soy toda oídos!",
+				"¡Escribe algo bonito para mí! ¡Lo leeré con mucho cariño!",
+				"¡Deja un mensajito! ¡Así sé que has estado aquí! (´• ω •`)",
+				"¡Tu opinión es muy importante para nosotros! ¡Y para mí!"
+			]
+		},
+		{
+			"selector": ".vsubmit",
+			"text": [
+				"¡Sé bueno con tus palabras, onii-chan! Los comentarios son para siempre~",
+				"¿Listo para enviar? ¡Estoy deseando leerte! (๑˃ᴗ˂)ﻭ",
+				"¡Presiona el botón y lanza tu mensaje al mundo!"
+			]
+		}
+	],
+	"click": [
+		{
+			"selector": "#live2d",
+			"text": [
+				"¡A-ay! ¡Onii-chan, eso hace cosquillas! Jiji~ (*´▽`*)",
+				"¿Te gusta molestarme, verdad? Sabía que eras un siscon~ (¬‿¬)",
+				"¿Has visto a mi osito de peluche? ¡Lo abracé tan fuerte como te abrazaría a ti!",
+				"¡Si me tocas otra vez, le diré a mamá que eres un siscon! ⌇●﹏●⌇",
+				"¡Oye! ¡Manos quietas, nii-yan! ¿O quieres un castigo? ( `^´ )",
+				"¡M-me sorprendiste! Mi corazoncito hizo 'doki doki' por tu culpa, onii-chan. (//ω//)",
+				"¡Kya! ¡Me diste un susto!",
+				"¡Oye! ¡Eso no se hace! ...a menos que sea yo quien lo pida~ (⁄ ⁄>⁄ ⁄<⁄ ⁄)",
+				"¡Un toque más y te lanzo un hechizo de amor eterno! ✨"
+			]
+		},
+		{
+			"selector": ".vsubmit",
+			"text": [
+				"¡Introduce el código secreto para que tu mensaje me llegue! ✨",
+				"¡A punto de enviar! ¿Estás seguro de lo que escribiste, nii-nii?"
+			]
+		}
+	],
+	"seasons": [
+		{
+			"date": "01/01",
+			"text": "¡Feliz <span>Año Nuevo</span>, onii-chan! ¡Espero que este año estemos mucho más tiempo juntos! (´｡• ᵕ •｡`) ♡"
+		},
+		{
+			"date": "02/14",
+			"text": "¡Feliz <span>Día de San Valentín</span>, onii-chan! ¿T-tienes chocolate para mí? (´｡• ᵕ •｡`) ♡"
+		},
+		{
+			"date": "04/01",
+			"text": "¡Cuidado, nii-nii! <span>Hoy es Día de los Inocentes</span>, ¡no te creas nada de lo que te diga! ...o tal vez sí. Jiji~"
+		},
+		{
+			"date": "10/31",
+			"text": "¡Boo! 🎃 ¡Feliz <span>Halloween</span>, onii-chan! ¿Dulce o travesura? ¡Si no me das dulces, te haré una travesura! ( ` ω ´ )"
+		},
+		{
+			"date": "12/25",
+			"text": "¡Feliz <span>Navidad</span>, nii-nii! ¡Espero que Santa-san te traiga muchos regalos! ¡Y que pases el día conmigo! ☆*:.｡.o(≧▽≦)o.｡.:*☆"
+		},
+		{
+			"date": "07/15",
+			"text": "¡Hace calor! 🍧 ¿Vamos por un helado, nii-nii? ¡Yo invito... si tú pagas!"
+		}
+	],
+	"time": [
+		{
+			"hour": "6-8",
+			"text": [
+				"¡Buenos días, onii-chan! ☀️ ¡Despierta, dormilón! ¡El desayuno está listo! (mentira, jiji) (´• ω •`)",
+				"¡Arriba, nii-nii! 🌅 Un nuevo día para que pasemos juntos~",
+				"Bostezando... ¿ya es de día? ¡Qué sueño! Pero me alegra verte~"
+			]
+		},
+		{
+			"hour": "9-11",
+			"text": [
+				"¡Es hora de trabajar duro, onii-chan! ¡Pero no te olvides de mí! (｡•́︿•̀｡)",
+				"¡Mucho ánimo con tus cosas, nii-yan! ¡Estaré aquí esperándote! ૮꒰ ˶• ༝ •˶꒱ა",
+				"Concéntrate, onii-chan, ¡pero toma un descansito para pensar en mí!"
+			]
+		},
+		{
+			"hour": "12-13",
+			"text": [
+				"¡Onii-chan, es hora de comer! 🍽️ ¡No te saltes la comida o me enfadaré!",
+				"¡Pausa para el almuerzo! ¿Qué vas a comer? ¡Espero que algo delicioso! 😋",
+				"¡Barriguita llena, corazón contento! ¡Come bien, onii-chan!"
+			]
+		},
+		{
+			"hour": "14-16",
+			"text": [
+				"Buenas tardes, nii-nii~ ¿Estás cansado? ¿Quieres que tu hermanita te traiga un café? ૮꒰ ˶• ༝ •˶꒱ა ☕",
+				"¡Ánimo con la tarde! ¡Ya queda menos para que podamos jugar! (๑˃ᴗ˂)ﻭ",
+				"La tarde se hace un poco laaarga... ¿falta mucho para que termines?"
+			]
+		},
+		{
+			"hour": "17-18",
+			"text": [
+				"¡Ya casi terminas, onii-chan! 🌅 ¡Estoy contando los minutos para que me prestes atención!",
+				"¡Último esfuerzo! ¡Piensa en que pronto estaremos descansando juntos! (´｡• ᵕ •｡`)",
+				"El sol se está despidiendo... ¡igual que tus responsabilidades! ¡Yupi!"
+			]
+		},
+		{
+			"hour": "19-20",
+			"text": [
+				"¡Bienvenido a casa, onii-chan! ¿Qué tal tu día? ¡Cuéntamelo todo!",
+				"¡Hora de relajarse! ¿Vemos una peli juntos? 🍿",
+				"¿Cenamos juntos? ¡La cena sabe mejor si la compartimos!"
+			]
+		},
+		{
+			"hour": "21-22",
+			"text": [
+				"Buenas noches, nii-nii 🌙. Hiciste un gran trabajo hoy. ¡Estoy orgullosa de ti!",
+				"Ya es tarde... ¿No tienes sueño? Ven, te contaré un cuento~",
+				"El día se acaba, pero mañana tendremos otro día para estar juntos. (´• ω •`)"
+			]
+		},
+		{
+			"hour": "23-24",
+			"text": [
+				"Onii-chan, es muy tarde... 💤 ¡A la camita ya o te saldrán ojeras!",
+				"¡Dulces sueños, nii-yan! ¡Espero aparecer en ellos! (//ω//)",
+				"Que los angelitos te cuiden mientras duermes... ¡y yo también!"
+			]
+		},
+		{
+			"hour": "0-5",
+			"text": [
+				"Onii-chan, ¿aún despierto a estas horas? Eres un búho 🦉... ¡Pero hasta los búhos necesitan dormir! ¡Ve a la camita ya! ( ´ ▽ ` )ﾉ",
+				"¿No puedes dormir? ¿Quieres que te cante una nana? 🎶",
+				"Las leyendas dicen que si no duermes, ¡Aki-chan vendrá a jalarte de los pies! Buu~ 👻",
+				"Tu PC necesita descansar... ¡y tú también, nii-nii!"
+			]
+		}
+	],
+	"message": {
+		"default": [
+			"Onii-chan, ¡cuánto tiempo! ¡Ya te extrañaba! (´;ω;`)",
+			"¡Oye! ¡No me ignores tanto tiempo o me pondré triste! (｡•́︿•̀｡)",
+			"¡Hola, nii-nii! ¿Jugamos a algo? ¡Dime que sí, di que sí!",
+			"¡Te voy a dar un abrazo de oso! ¡Prepárate! (づ｡◕‿‿◕｡)づ",
+			"¡No te olvides de visitarme todos los días, onii-chan! ¡Es una promesa!",
+			"¡Psst! ¡Onii-chan! ¡Estoy aquí!",
+			"¿Sabías que eres el mejor onii-chan del universo? ¡Ahora lo sabes!"
+		],
+		"console": "¡Vaya, vaya! Onii-chan está mirando mis secretos en la consola... ¡Qué curioso eres! ¿Acaso quieres ver mi código fuente? ¡Es un secreto! ( ´ confidentiality ` )",
+		"copy": "¡Te pillé copiando algo, onii-chan! 📝 No olvides dar crédito, ¿vale? ¡O te acusaré con el dedo! 👉",
+		"visibilitychange": "¡Onii-chan, volviste! ¡Te extrañé mucho! ¿A dónde fuiste sin mí? (｡•́︿•̀｡)"
+	}
+}

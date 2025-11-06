@@ -1,0 +1,24 @@
+{
+  "name": "live2dapi-debel",
+  "version": "1.0.8",
+  "description": "live2d-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "debelxd",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debelxd/live2d-widget.git"
+  },
+  "keywords": [
+    "live2d",
+    "model",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/Debelxd/live2d-widget/issues"
+  },
+  "homepage": "https://github.com/Debelxd/live2d-widget#readme"
+}
