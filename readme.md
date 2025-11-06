@@ -18,7 +18,7 @@
 
 ## How to use
 
-You can use `jsdelivr` and `npm` mirror nodes to introduce relevant files to your website, and determine the position of your billboard girl and the model material switching method based on the imported files.
+You can use `jsdelivr` mirror nodes to introduce relevant files to your website, and determine the position of your billboard girl and the model material switching method based on the imported files.
 
 1.Use `jsdelivr` to import.
 
@@ -35,26 +35,6 @@ You can use `jsdelivr` and `npm` mirror nodes to introduce relevant files to you
 
 <!-- The poster girl is on the right -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Debelxd/live2d-widget@latest/css/right.min.css"/>
-   ```
-
-2. Use domestic `npm` mirror node to import.
-
-   ```html
-   <!-- Switch model materials sequentially -->
-   <script src="https://unpkg.com/Debelxd/live2d-widget@latest/npm/sequential/autoload.js"></script>
-   <!-- Randomly switch model materials -->
-   <script src="https://unpkg.com/Debelxd/live2d-widget@latest/npm/random/autoload.js"></script>
-
-   <!-- The poster girl is on the left -->
-   <link
-     rel="stylesheet"
-     href="https://unpkg.com/Debelxd/live2d-widget@latest/css/left.css"
-   />
-   <!-- The poster girl is on the right -->
-   <link
-     rel="stylesheet"
-     href="https://unpkg.com/Debelxd/live2d-widget@latest/css/right.css"
-   />
    ```
 
 > You can download `js` and `css` files for customized configuration, please refer to [ live2d-widget Configuration](https://github.com/stevenjoezhang/live2d-widget#%E9%85%8D%E7%BD%AE-configuration)。

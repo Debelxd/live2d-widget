@@ -1,5 +1,5 @@
 // Note: live2d_path parameters should use absolute paths.
-const live2d_path = '/';
+const live2d_path = 'https://cdn.jsdelivr.net/gh/Debelxd/live2d-widget@master/';
 
 // Language configuration
 const live2d_config = {

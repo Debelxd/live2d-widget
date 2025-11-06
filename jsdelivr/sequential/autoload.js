@@ -2,7 +2,7 @@
 // const live2d_path =
 //   "https://fastly.jsdelivr.net/gh/nova1751/live2d-widget@latest/";
 
-const live2d_path = 'https://cdn.jsdelivr.net/gh/nova1751/live2d-api@latest/';
+const live2d_path = 'https://cdn.jsdelivr.net/gh/Debelxd/live2d-widget@master/';
 
 // Methods for encapsulating asynchronous resource loading
 function loadExternalResource(url, type) {
